@@ -11,7 +11,7 @@ $nearby = $geoplugin->nearby();
 if($geoplugin->countryCode == "AE"){
 
 ?>
-
+ 
 <?php 
 $id = $_POST["id"];
 $idN = "#ID:".$id ;
